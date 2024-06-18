@@ -19,9 +19,9 @@ body, html {
     -webkit-backdrop-filter: blur(10px);
     border: none;
     text-align: center;
-    width: 350px; /* Fixed width */
-    height: 500px; /* Fixed height */
-    overflow: hidden; /* Hide overflow content */
+    width: 350px;
+    height: 500px;
+    overflow: hidden;
 }
 
 h1 {
